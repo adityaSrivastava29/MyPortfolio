@@ -4,7 +4,7 @@
 
 
 
-**[View Live Preview](https://github.com/adityaSrivastava29/MyPortfolio/)**
+**[View Live Preview](https://adityaSrivastava29.github.io/MyPortfolio/)**
 
 
 
